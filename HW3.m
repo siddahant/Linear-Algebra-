@@ -1,6 +1,5 @@
 %{
 Siddahant Jain 
-Problem 4.
 %}
 clear; clc;
 format shortG
